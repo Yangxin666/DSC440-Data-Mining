@@ -1,2 +1,3 @@
 # DSC440-Data-Mining
-Final project 
+
+Programming homework from DSC440 Data Mining course at the University of Rochester
